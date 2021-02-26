@@ -4,7 +4,7 @@
 
 ## 简介 
 
-本Demo通过涂鸦智能云平台、涂鸦智能APP、IoTOS Embeded WiFi &Ble SDK实现一款环境检测盒子，使用涂鸦WiFi/WiFi+BLE系列模组，实现远程数据监测、远程自动控制等智能化功能。
+本Demo通过涂鸦智能云平台、涂鸦智能APP、IoTOS Embeded WiFi &Ble SDK实现一款环境安全卫士，使用涂鸦WiFi/WiFi+BLE系列模组，实现远程数据监测、远程自动控制等智能化功能。
 
 已实现功能包括：
 
@@ -64,7 +64,7 @@
     │   ├── soc_adc.c
     │   ├── soc_pwm.c
     │   └── soc_timer.c
-    ├── tuya_environment_monitor.c		//空气盒子主要功能实现
+    ├── tuya_environment_monitor.c		//环境安全卫士主要功能实现
     ├── tuya_device.c		//应用层入口文件
     └── tuya_dp_process.c	//dp点处理文件
 ```

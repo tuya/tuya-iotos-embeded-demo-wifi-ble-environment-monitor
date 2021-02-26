@@ -65,7 +65,7 @@ This demo implements a smart WiFi environment monitor through Tuya Smart Cloud P
       │ ├── soc_adc.c
       │ ├── soc_pwm.c
       │ └── soc_timer.c
-      ├── tuya_environment_monitor.c	// Main function implementation of air box
+      ├── tuya_environment_monitor.c	// Main function implementation of environment monitor
       ├── tuya_device.c 		// Application entry file
       └── tuya_dp_process.c 	//dp point processing file
   ```
