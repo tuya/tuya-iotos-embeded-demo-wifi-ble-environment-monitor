@@ -38,7 +38,7 @@ This demo implements a smart WiFi environment monitor through Tuya Smart Cloud P
   + Execute the following command in the SDK root directory to start compilation.
 
     ```bash
-    sh build_app.sh ./apps/bk7231s_environment_monitor/ bk7231s_environment_monitor 1.0.0 
+    sh build_app.sh ./apps/tuya-iotos-embeded-demo-wifi-ble-environment-monitor tuya-iotos-embeded-demo-wifi-ble-environment-monitor 1.0.0 
     ```
 
   + Firmware burn-in license information please refer to: [Wi-Fi + BLE series module burn-in license](https://developer.tuya.com/cn/docs/iot/device-development/burn-and-authorization/burn-and- authorize-wifi-ble-modules/burn-and-authorize-wb-series-modules?id=Ka78f4pttsytd) 
