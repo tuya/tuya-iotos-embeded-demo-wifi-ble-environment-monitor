@@ -37,7 +37,7 @@
 + 在SDK根目录下执行以下命令开始编译：
 
   ```bash
-  sh build_app.sh ./apps/bk7231s_environment_monitor/ bk7231s_environment_monitor 1.0.0 
+  sh build_app.sh ./apps/tuya-iotos-embeded-demo-wifi-ble-environment-monitor tuya-iotos-embeded-demo-wifi-ble-environment-monitor 1.0.0 
   ```
 
 + 固件烧录授权相关信息请参考：[Wi-Fi + BLE 系列模组烧录授权](https://developer.tuya.com/cn/docs/iot/device-development/burn-and-authorization/burn-and-authorize-wifi-ble-modules/burn-and-authorize-wb-series-modules?id=Ka78f4pttsytd) 
