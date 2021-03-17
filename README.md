@@ -26,7 +26,7 @@ The following features have been implemented:
 
   ### Build and flash
 
-  + Download [Tuya IoTOS Embedded Wi-Fi & Bluetooth Low Energy SDK](https://github.com/tuya/tuya-iotos-embeded-sdk-wifi-ble-bk7231t).` 
+  + Download [Tuya IoTOS Embedded Wi-Fi & Bluetooth Low Energy SDK](https://github.com/tuya/tuya-iotos-embeded-sdk-wifi-ble-bk7231t). 
 
   + Download the demo to the apps directory of the SDK directory. 
 
