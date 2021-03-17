@@ -4,7 +4,7 @@
 
 ## Overview
 
-This demo describes how to develop an environment monitor by using the Tuya IoT Platform, Tuya Smart app, IoTOS Embeded Wi-Fi and Bluetooth Low Energy SDK. It uses Tuya Wi-Fi modules and Wi-Fi + Blueooth Low Energy modules to provide smart functions such as remote data monitoring and remote automatic control.
+This demo describes how to develop an environment monitor by using the Tuya IoT Platform, Tuya Smart app, and IoTOS Embedded Wi-Fi and Bluetooth Low Energy SDK. It uses Tuya Wi-Fi modules and Wi-Fi + Bluetooth Low Energy modules to provide smart functions such as remote data monitoring and remote automatic control.
 
 The following features have been implemented:
 
