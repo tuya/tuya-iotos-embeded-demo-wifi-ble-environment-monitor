@@ -413,5 +413,5 @@ VOID air_box_device_init(VOID)
     /* 预热 30s 后释放信号量，开始采集传感器数据 */
     opSocSWTimerStart(preheat_timer, SENSOR_PREHEAT_TIME, preheat_semaphore_post_task); 
 
-    tuya_hal_thread_create(acquire_data_task, "acquire sensor data", 512 * 4, NULL, TRD_PRIO_2, NULL);
+    tuya_hal_thread_create(NULL, "acquire sensor data", 512*4, TRD_PRIO_5, acquire_data_task, NULL);
 }
